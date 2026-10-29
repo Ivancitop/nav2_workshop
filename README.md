@@ -203,5 +203,5 @@ En modo punto por punto también imprime la distancia restante y el número de r
 ## 8. Test result videos
 
 ```
-located under `../test_videos`
+localizado en `../test_videos`
 ```
